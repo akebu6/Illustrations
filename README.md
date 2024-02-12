@@ -13,6 +13,8 @@ Have a concept you would like to illustrate, then follow the steps below to cont
 6. Open a PR
 7. Wait for it to be merged into the main repo
 
+**N.B:** For a detailed view on how to contribute to this repo, follow this [link](https://github.com/akebu6/Illustrations/blob/main/CONTRIBUTING.md)
+
 # Illustrations Available so far
 1. Git Cheatsheet
 2. Type System
